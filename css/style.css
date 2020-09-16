@@ -49,7 +49,7 @@ div {
     text-align:left;
 }
 
-#yellow {
+#yellow.h2 {
     background-color:#ffff00;
     text-align:right;
     color:black;
@@ -61,7 +61,7 @@ div {
     text-align:left;
 }
 
-footer{
+footer.p{
     text-align:right;
     padding-bottom:10px;
     padding-right:10px;
