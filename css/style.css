@@ -15,7 +15,7 @@ h1 {
 
 h2 {
     font-size: 30px;
-    text-shadow: 5px 5px 2px gray;
+    text-shadow: 5px 5px 2px grey;
     
     
 }
@@ -36,6 +36,17 @@ div {
     padding-top: 25px;
 }
 
+#red {
+    background-color: #ff0000;
+    text-align:right;
+}
+#blue{
+    background-color: #0000ff;
+    text-align:left;
+}
+
+        
+    
 
     
      
