@@ -23,9 +23,7 @@ h2 {
 p {
     font-size: 24px;
     padding-top: 20px;
-    padding-bottom: 20px;
-    padding-left: 20px;
-    padding-right: 20px;
+    
 }
 
 img {
@@ -37,6 +35,9 @@ img {
 div {
     min-height: 150px;
     padding-top: 25px;
+    padding-bottom: 25px;
+    padding-left: 25px;
+    padding-right: 25px;
 }
 
 #red {
